@@ -42,3 +42,25 @@ Built for:
 - Instant fun. Instant regret. Instant rollback if it breaks.
 
 Enjoy responsibly. 🍻
+
+# CincaiAndroid Frameworks Base
+
+This is a modified fork of the `android_frameworks_base` repository, originally from the crDroid project.
+
+This fork was made as part of the **CincaiAndroid** ROM project — a playful and experimental Android ROM built with learning, simplicity, and flexibility in mind.
+
+## Collaboration
+
+Development and modifications are done with occasional technical and creative input from **ChatGPT** by OpenAI. The AI serves as a co-pilot, advisor, and... sometimes, comic relief.
+
+## Credits
+
+- **crDroid Android**: For the original and outstanding base sources
+- **OpenAI**: For ChatGPT’s guidance throughout this journey
+- **Android Open Source Project (AOSP)**: For the foundation of all custom ROMs
+- ...and all upstream contributors
+
+## License
+
+Follows the original licensing of the AOSP and crDroid base, unless explicitly stated otherwise.
+
