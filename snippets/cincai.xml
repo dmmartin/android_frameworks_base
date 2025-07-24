@@ -1,0 +1,18 @@
+<manifest>
+  <!-- Override crDroid or Lineage repos with your forks -->
+  <project name="dmmartin/android_frameworks_base"
+           path="frameworks/base"
+           remote="cincaiandroid"
+           revision="cincai-dev" />
+
+  <!--Not active - work in progress -->
+  <!--project name="dmmartin/android_packages_apps_Settings"
+           path="packages/apps/Settings"
+           remote="cincaiandroid"
+           revision="cincai-dev" />
+
+  <project name="dmmartin/android_vendor_cincai"
+           path="vendor/cincai"
+           remote="cincaiandroid"
+           revision="main"-->
+</manifest>
