@@ -4,6 +4,10 @@
   <remote  name="cincaiandroid"
            fetch="https://github.com/cincaiandroid"/>
 
+  <remote name="crdroid"
+          fetch="https://github.com/crdroidandroid"
+          review="review.crdroid.net" />
+
   <!-- Optional AOSP upstream tag reference -->
   <remote  name="aosp"
            fetch="https://android.googlesource.com"
@@ -1011,7 +1015,7 @@
     <copyfile src="lk_inc.mk" dest="lk_inc.mk" />
   </project>
 
-  <include name="local_manifest/cincai.xml" />
+  <include name="snippets/cincai.xml" />
   <include name="snippets/crdroid.xml" />
   <include name="snippets/lineage.xml" />
   <include name="snippets/pixel.xml" />
